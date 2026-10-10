@@ -1,0 +1,11 @@
+[project]
+name = "saspy-advanced"
+version = "0.1.0"
+description = "SASPy examples for SAS Users Group Japan 2026"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=4.0.2",
+    "saspy>=5.109.3",
+    "streamlit>=1.63.0",
+]
